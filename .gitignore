@@ -23,6 +23,16 @@ bld/
 [Ll]og/
 [Ll]ogs/
 
+# Visual Studio workspace caches and per-user settings
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Per-user publish settings
+*.pubxml.user
+
 # .NET Core
 project.lock.json
 project.fragment.lock.json
